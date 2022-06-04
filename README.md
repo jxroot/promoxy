@@ -12,16 +12,15 @@
 <ol>Run on your server for best performance</ol>
 
 <ol>To help us add your EndPoint to the pull request</ol>
-
-
-### 🛠  Dependencies
+<hr>
+<h2>🛠  Dependencies</h2>
 requires following module 
 - `axios`
 - `colors`
 
 
 > All the dependencies will be installed automatically when you run `npm install` for the first time.
-###  💿Installation And Usage
+<h2>💿 Installation And Usage</h2>
 ```
 $ git clone https://github.com/jxroot/promoxy
 $ cd promoxy
