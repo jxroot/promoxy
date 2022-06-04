@@ -13,6 +13,31 @@
 
 <ol>To help us add your EndPoint to the pull request</ol>
 
+
+### 🛠  Dependencies
+requires following module 
+- `axios`
+- `colors`
+
+
+> All the dependencies will be installed automatically when you run `npm install` for the first time.
+###  💿Installation And Usage
+```
+$ git clone https://github.com/jxroot/promoxy
+$ cd promoxy
+$ npm install
+$ node bomber.js 09128321234
+```
+<h2 id="operating-systems-tested">💻 Operating Systems Tested</h2>
+<ul>
+
+<li>Windows 11</li>
+</ul>
+
+
+
+
+
 <h2 id="contact">📧 Contact</h2>
 <p >
 <a href="https://t.me/sectoolfa"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
