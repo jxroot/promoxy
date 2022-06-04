@@ -12,9 +12,11 @@
 <li><a href="#dependency"> API List</a></li>
 <li><a href="#installation-and-usage"> Dependencies</a></li>
 <li><a href="#installation-termux">Installation And Usage</a></li>
-<li><a href="#operating-systems-tested">Operating Systems Tested</a></li>
+<li><a href="#operating-systems-tested">Operating Systems Tested</a>
 <li><a href="#contact">Contact</a></li>
-<br>
+
+</li>
+</ul>
 <h2>📢 Important note</h2>
 
 <ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
