@@ -6,7 +6,8 @@
     </p>
 <hr>
 <h2>📢 Important note</h2>
-<p >If you encounter restrictions on using the API, you will need to change your ip address</p>
+
+<ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
 <br>
 <p >Run on your server for best performance</p>
 <br>
