@@ -19,7 +19,7 @@
    alt="adb">
    <a href="https://www.codefactor.io/repository/github/jxroot/adbwebkit">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
    
-<p><img src="https://fizoofood.com/bombs.gif" alt="enter image description here"></p>
+<p align="center"><img src="https://fizoofood.com/bombs.gif" alt="enter image description here"></p>
 
   
 </p>
