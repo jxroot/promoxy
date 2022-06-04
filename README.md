@@ -9,8 +9,8 @@
   <b>Powerful And Fast SMS  Bomber !</b>
     </p>
 <p align="center">
-  <a href="https://php.net">
-    <img src="https://img.shields.io/badge/node-8.0.7-green" alt="php">
+  <a href="https://nodejs.org">
+    <img src="https://img.shields.io/badge/node-18.2.0-green" alt="php">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Windows-red">
