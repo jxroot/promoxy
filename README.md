@@ -17,7 +17,7 @@
   </a>
    <img src="https://img.shields.io/badge/adb-1.0.35-blue" 
    alt="adb">
-   <a href="https://www.codefactor.io/repository/github/jxroot/adbwebkit">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
+   <a href="https://www.codefactor.io/repository/github/jxroot/promoxy">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
    
 <p align="center"><img src="https://fizoofood.com/bombs.gif" alt="enter image description here"></p>
 
