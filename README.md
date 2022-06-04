@@ -15,7 +15,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Windows-red">
   </a>
-   <img src="https://img.shields.io/badge/adb-1.0.35-blue" 
+   <img src="https://img.shields.io/badge/npm-8.9.0-blue" 
    alt="adb">
    <a href="https://www.codefactor.io/repository/github/jxroot/promoxy">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
    
