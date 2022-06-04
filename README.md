@@ -8,10 +8,10 @@
 <h2>📢 Important note</h2>
 
 <ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
-<br>
-<p >Run on your server for best performance</p>
-<br>
-<p >To help us add your EndPoint to the pull request</p>
+
+<ol>Run on your server for best performance</ol>
+
+<ol>To help us add your EndPoint to the pull request</ol>
 
 <h2 id="contact">📧 Contact</h2>
 <p >
