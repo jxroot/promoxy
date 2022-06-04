@@ -7,6 +7,11 @@
 <hr>
 <h2>📢 Important note</h2>
 <p >If you encounter restrictions on using the API, you will need to change your ip address</p>
+<br>
+<p >Run on your server for best performance</p>
+<br>
+<p >To help us add your EndPoint to the pull request</p>
+
 <h2 id="contact">📧 Contact</h2>
 <p >
 <a href="https://t.me/sectoolfa"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
