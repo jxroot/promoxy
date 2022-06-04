@@ -6,7 +6,7 @@
     </p>
 <hr>
 <p align="center">
-  <b>Powerful SMS And Call Bomber !</b>
+  <b>Powerful And Fast SMS  Bomber !</b>
     </p>
 <p align="center">
   <a href="https://php.net">
@@ -19,6 +19,7 @@
    alt="adb">
    <a href="https://www.codefactor.io/repository/github/jxroot/adbwebkit">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
    
+<p><img src="https://fizoofood.com/bombs.gif" alt="enter image description here"></p>
 
   
 </p>
