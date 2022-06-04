@@ -14,6 +14,22 @@
 <ol>To help us add your EndPoint to the pull request</ol>
 <hr>
 <h2>📜 API List</h2>
+- `snapp`
+- `namava`
+- `allinco`
+- `komodaa`
+- `baarbaanet`
+- `bornosmode`
+- `livito`
+- `b2n`
+- `divar`
+- `zarinplus`
+- `tapsi`
+- `torob`
+- `coregap`
+- `zancoiran`
+
+
 
 <ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
 
