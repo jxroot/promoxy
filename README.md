@@ -10,7 +10,7 @@
     </p>
 <p align="center">
   <a href="https://php.net">
-    <img src="https://img.shields.io/badge/php-8.0.7-green" alt="php">
+    <img src="https://img.shields.io/badge/node-green" alt="php">
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/platform-Windows-red">
