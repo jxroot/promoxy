@@ -5,7 +5,23 @@
     <b>Promoxy</b><br>
     </p>
 <hr>
+<p align="center">
+  <b>Powerful SMS And Call Bomber !</b>
+    </p>
+<p align="center">
+  <a href="https://php.net">
+    <img src="https://img.shields.io/badge/php-8.0.7-green" alt="php">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/platform-Windows-red">
+  </a>
+   <img src="https://img.shields.io/badge/adb-1.0.35-blue" 
+   alt="adb">
+   <a href="https://www.codefactor.io/repository/github/jxroot/adbwebkit">  <img src="https://www.codefactor.io/repository/github/jxroot/adbwebkit/badge" alt="CodeFactor" /> </a>
+   
 
+  
+</p>
 <h2 id="table-of-contents">📜 Table of Contents</h2>
 <ul>
 <li><a href="#connection"> Important note</a></li>
