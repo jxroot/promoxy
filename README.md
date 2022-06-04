@@ -14,7 +14,7 @@
 <li><a href="#installation-termux">Installation And Usage</a></li>
 <li><a href="#operating-systems-tested">Operating Systems Tested</a></li>
 <li><a href="#contact">Contact</a></li>
-
+<br>
 <h2>📢 Important note</h2>
 
 <ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
