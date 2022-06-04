@@ -14,6 +14,7 @@
 <ol>To help us add your EndPoint to the pull request</ol>
 <hr>
 <h2>📜 API List</h2>
+
 - `snapp`
 - `namava`
 - `allinco`
@@ -29,13 +30,6 @@
 - `coregap`
 - `zancoiran`
 
-
-
-<ol>If you encounter restrictions on using the API, you will need to change your ip address</ol>
-
-<ol>Run on your server for best performance</ol>
-
-<ol>To help us add your EndPoint to the pull request</ol>
 <hr>
 <h2>🛠  Dependencies</h2>
 
