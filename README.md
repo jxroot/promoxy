@@ -73,10 +73,10 @@ requires following module
 <h2>💿 Installation And Usage</h2>
 
 ```
-$ git clone https://github.com/jxroot/promoxy
-$ cd promoxy
-$ npm install
-$ node bomber.js 09128321234
+ git clone https://github.com/jxroot/promoxy
+ cd promoxy
+ npm install
+ node bomber.js 9128321234
 ```
 <h2 id="operating-systems-tested">💻 Operating Systems Tested</h2>
 <ul>
