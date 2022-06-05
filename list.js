@@ -120,7 +120,7 @@ list = [{
 {
     "url": "https://api2.hitro.mobi/api/passengerinfo/InsertPassenger",
     "data": { "ClientId": `0${number}`, "ClientSecret": "0501098153736800398716253736091541224", "Name": "awdawd", "Family": "awdawd", "Email": `hawadwdaaw${randomnum}du@gmail.com` },
-    "name": "alibaba",
+    "name": "hitro",
     "type": "WEB",
 },
 
