@@ -60,6 +60,12 @@
 - `torob`
 - `coregap`
 - `zancoiran`
+- `alibaba`
+- `behtarino`
+- `didofood`
+- `hitro`
+- `delino`
+
 
 <hr>
 <h2>🛠  Dependencies</h2>
