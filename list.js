@@ -3,6 +3,8 @@
 //   Version 	: 	1
 //   Github 	: 	https://github.com/jxroot/promoxy
 const number = process.argv[2]
+const randomnum = Math.floor(Math.random() * 1000000)
+
 list = [{
 
     "url": "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
