@@ -1,3 +1,7 @@
+//   promoxy 	: 	SMS And Call Bomber
+//   Author 	: 	jxroot 
+//   Version 	: 	1
+//   Github 	: 	https://github.com/jxroot/promoxy
 const number = process.argv[2]
 list=[{
     
