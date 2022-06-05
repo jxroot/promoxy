@@ -1,3 +1,7 @@
+//   promoxy 	: 	SMS And Call Bomber
+//   Author 	: 	jxroot 
+//   Version 	: 	1
+//   Github 	: 	https://github.com/jxroot/promoxy
 const axios = require('axios')
 const list = require('./list')
 const colors = require('colors');
