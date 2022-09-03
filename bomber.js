@@ -4,27 +4,34 @@
 //   Github 	: 	https://github.com/jxroot/promoxy
 const axios = require('axios')
 const list = require('./list')
-const colors = require('colors');
 const validate = list.number.search(/^9\d{9}$/i);
 if (validate == 0) {
     list.api.forEach(function (item) {
+        if ("headers" in item) {
+            var headers = item.headers
+        } else {
+            var headers = {}
 
+        }
         if (item.method == "POST") {
-            axios.post(item.url, item.data).then(function (response) {
-                console.log(`${colors.green(item.name)}  ${colors.yellow(item.url)} ${colors.white(response.status)} ${colors.red(item.method)}`);
+            axios.post(item.url, item.data, headers).then(function () {
+                console.log(item.name);
             }).catch(error => {
+                console.log("ERROR");
 
-                console.log(`${colors.green(item.name)}  ${colors.yellow(item.url)} ${colors.white(error.response.status)} ${colors.red(item.method)}`);
 
             })
+
+
         }
 
         else {
-            axios.get(item.url).then(function (response) {
-                console.log(`${colors.green(item.name)}  ${colors.yellow(item.url)} ${colors.white(response.status)} ${colors.red(item.method)}`);
+            axios.get(item.url.headers).then(function () {
+                console.log(item.name);
+
             }).catch(error => {
 
-                console.log(`${colors.green(item.name)}  ${colors.yellow(item.url)} ${colors.white(error.response.status)} ${colors.red(item.method)}`);
+                console.log("ERROR");
 
             })
         }
