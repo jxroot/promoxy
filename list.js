@@ -148,7 +148,7 @@ list = [{
     "name": "qestabad",
     "type": "APK",
     "method": "POST",
-    "package_name": "com.android.test",
+    "package_name": "com.qestabad.online.novinappsaz",
     "headers": {
         'Host': 'qestabad.com',
         'Content-Length': '277',
