@@ -65,7 +65,7 @@
 - `didofood`
 - `hitro`
 - `delino`
-
+- `qestabad`
 
 <hr>
 <h2>🛠  Dependencies</h2>
