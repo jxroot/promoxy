@@ -164,8 +164,50 @@ list = [{
         'Accept-Encoding': 'gzip, deflate',
         'Accept-Language': 'en-US,en;q=0.9',
         'Cookie': 'digits_countrycode=98'
-    }
+    },
 },
+{
+    "url": "http://behtamarket.com//getRegister.php?n=shinaweb&activeBySms=true",
+    "data": "e=0" + `${number}` + "&adres=&p=r%24%24tme1&name=wadawdawdawd&em=&moaref=&bazaryab_code=&shahrestan_id=0&codeposti=&tel=",
+    "name": "behtamarket",
+    "type": "APK",
+    "method": "POST",
+    "package_name": "com.persiandesigners.behtamarket",
+
+},
+{
+    "url": `https://api.arasta360.com/api/account/token?phoneNumber=0${number}`,
+    "name": "arasta360",
+    "type": "WEB",
+    "method": "POST",
+},
+{
+    "url": "https://kasbinoapp.ir/kasbinoEngine1/RequestC",
+    "data": `{"p1001":"0${number}","p1002":"registerSms","token":"e0d4cc39-b5d3-47ea-8ede-6ead5eed3b8a.e000af00-d00d-0da0-0f00-000d00000cc0","RC":"7be86c2a5b54"}`,
+    "name": "kasbinoapp",
+    "type": "WEB",
+    "method": "POST",
+},
+
+{
+    "url": "https://gateway.telewebion.com/shenaseh/api/v2/auth/step-one",
+    "data": { "code": "98", "phone": `${number}`, "smsStatus": "default" },
+    "name": "telewebion",
+    "type": "WEB",
+    "method": "POST",
+
+
+},
+{
+    "url": "http://civapp.ir//getRegister.php?n=shinaweb&activeBySms=true",
+
+    "data": "e=0" + `${number}` + "&adres=&p=r%24%24tme1&name=wadawdawdawd&em=&moaref=&bazaryab_code=&shahrestan_id=0&codeposti=&tel=",
+    "name": "civapp",
+    "type": "APK",
+    "method": "POST",
+    "package_name": "com.persiandesigners.civapp",
+
+}
 ]
 module.exports = {
     api: list,
