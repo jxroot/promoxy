@@ -66,6 +66,14 @@
 - `hitro`
 - `delino`
 - `qestabad`
+- `civapp`
+- `behtamarket`
+- `arasta360`
+- `kasbinoapp`
+- `telewebion`
+
+
+
 
 <hr>
 <h2>🛠  Dependencies</h2>
